@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": ["app/*"],
+      "underscore": ["lodash"],
+      "assets": ["./app/assets"],
+      "screens": ["./app/screens"],
+      "components": ["./app/components"],
+      "navigations": ["./app/navigations"],
+      "styles": ["./app/styles"],
+      "utils": ["./app/utils"],
+      "redux": ["./app/redux"]
+    }
+  }
+}

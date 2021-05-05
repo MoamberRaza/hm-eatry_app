@@ -1,0 +1,6 @@
+module Pods_HMEatery {
+  umbrella header "Pods-HMEatery-umbrella.h"
+
+  export *
+  module * { export * }
+}
